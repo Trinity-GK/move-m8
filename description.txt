@@ -1,0 +1,13 @@
+NPCs blocking your doorway? Guide standing on your chest? Nurse won't get out of your face?
+
+Craft the Move M8 and poke those pesky NPCs out of your way!
+
+Inspired by Preach Gaming's legendary frustration with NPCs who just won't move.
+
+Features:
+- Jousting lance-style weapon that thrusts towards your cursor
+- Knocks NPCs away without dealing damage
+- Satisfying "MOVE M8!" combat text
+- Early game crafting recipe (10 Silk + 5 Iron Bars)
+
+MOVE, M8!

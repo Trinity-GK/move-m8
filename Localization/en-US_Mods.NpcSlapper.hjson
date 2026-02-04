@@ -1,0 +1,14 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	MoveM8: {
+		DisplayName: Move M8
+		Tooltip:
+			'''
+			Poke NPCs to slap them out of your way!
+			'MOVE, M8!'
+			'''
+	}
+}
+
+Projectiles.MoveM8Projectile.DisplayName: Move M8 Projectile

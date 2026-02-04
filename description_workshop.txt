@@ -1,0 +1,31 @@
+[h1]MoveM8 - NPC Slapper[/h1]
+
+Tired of NPCs blocking your way? Standing in doorways? Getting in your face while you're trying to build?
+
+[b]MOVE, M8![/b]
+
+Inspired by Preach's legendary frustration with NPCs who just won't get out of the way, this mod adds the [b]MoveM8[/b] - a satisfying tool that lets you slap those pesky Town NPCs right out of your path!
+
+[h2]Features[/h2]
+[list]
+[*] Craft the MoveM8 weapon
+[*] Hover over any NPC
+[*] Give them a good slap and watch them fly!
+[*] No damage dealt - just pure, satisfying knockback
+[*] Complete with "SLAP!" combat text
+[/list]
+
+[h2]Crafting Recipe[/h2]
+[list]
+[*] 10 Silk
+[*] 5 Iron Bars
+[*] Crafted at a Work Bench
+[/list]
+
+[h2]How to Use[/h2]
+Equip the MoveM8, hover your cursor over an NPC, and swing away. They'll get the message.
+
+[i]"Move it, mate!"[/i]
+
+[hr]
+[i]For when asking nicely just isn't enough.[/i]
